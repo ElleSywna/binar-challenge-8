@@ -7,3 +7,6 @@ Tugas kalian disini adalah:
 3. Coverage minimal 70%
 
 Good luck!
+
+Heroku URL :
+https://binar-challenge-ch-8.herokuapp.com/
